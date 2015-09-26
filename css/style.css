@@ -1,0 +1,51 @@
+body {
+	background-color: #FFEBCD;
+	font-family: helvetica;
+}
+
+.container {
+	font-size: 35px;
+	margin-top: 100px;
+	border-bottom: solid 10px;
+	text-align: left;
+
+
+}
+
+.row {
+	margin-left: 110px;
+	margin-top: 5px;
+	font-size: 18px;
+	font-variant: small-caps;
+	margin-right: 5px;
+}
+
+.list {
+	text-align: right;
+	text-transform: uppercase;
+	margin-top: 10px;
+}
+
+.text {
+	border-right: solid 10px black;
+	width: 100%;
+	padding-right: 10px;
+}
+
+
+
+.box {
+	height: 125px;
+	background-color: #228B22;
+	margin-top: 5px;
+
+}
+.special {
+	background-color: yellow;
+	margin-left: 10px;
+}
+
+.blue {
+	background-color: #000080;
+	margin-top: 5px;
+}
