@@ -1,0 +1,1 @@
+I can’t get the boxes lined up perfectly because the margin left was controlling the space between the columns which caused a ton of other problems for everything else. I tried adjusting everything. This is what I had planned for the project to look like. but it still couldn’t work
